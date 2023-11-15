@@ -8,3 +8,8 @@ The purpose of this lab is to enable developers to get started with Snowpark.
 1. Snowpark installation.
 2. Overview of how to load, transform, and aggregate tabluar data with Python on Snowflake compute.
 3. How to process staged files with pandas via Python Stored Procedures.
+
+## Once you clone the repo. Run:
+```
+conda env create -f snowpark_env.yml 
+```
